@@ -40,7 +40,7 @@ public class Produto {
         System.out.println("Informações da compra: ");
         System.out.println("Nome do produto: " + nomeProduto);
         System.out.println("Valor unitario: R$ " + valorUnitario);
-        System.out.println("Quantidade: " + qtde);
+        System.out.println("Quantidade " + qtde);
         System.out.println("Valor total R$: " + valorTotal);
     }
 
